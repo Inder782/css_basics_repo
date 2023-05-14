@@ -1,0 +1,45 @@
+#b11{
+   background-color: black;
+}
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    color: red;
+}
+#h1{
+    background-color: aqua;
+}
+#p1{
+   background-color: aqua; 
+}
+
+#p2{
+    background-color: blue;
+    color: white;
+}
+
+#h11{
+    color: white;
+    font-family: "Press Start 2P";
+}
+#p11{
+    font-family:sans-serif,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+
+/* 
+point -1-->Use link rel and link it to style.css then give ids to the tags
+
+and use # to get their properties.
+
+
+point-2 > go to google fonts and then link the font to your html
+after that use font-family: <name of the font> to set the font
+in this case i used to press start 2 p font.
+
+point- 3 give ids else the style.css will change everything it finds
+with the similar tag like body head etc.
+*/
+
+
